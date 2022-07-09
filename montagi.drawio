@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T18:59:45.725Z" agent="5.0 (Windows)" version="20.0.4" etag="0NpAZ1xGAMttlxM7qYfP" type="github"><diagram id="yDMa6tZVxdIgjC1dDYZ7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-09T16:37:34.126Z" agent="5.0 (Windows)" etag="gCiDI1jsuf7hxcQQ8xM9" version="20.0.4" type="github">
+  <diagram id="yDMa6tZVxdIgjC1dDYZ7" name="Page-1">
+    <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-1" value="&lt;div&gt;Бюджет&lt;/div&gt;&lt;div&gt;/по договор/&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-2" value="Монтажен Екип" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-3" value="Дата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-4" value="&lt;div&gt;Задание&lt;/div&gt;&lt;div&gt;/ СО, Ф /&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-6" value="Операция" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-7" value="Цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-8" value="Данни за таблица монтажи ИВ" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="300" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-8">
+          <mxGeometry y="30" width="300" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-10" value="Монтажни екипи" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-9">
+          <mxGeometry width="100" height="63" as="geometry">
+            <mxRectangle width="100" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-11" value="Разценки за монтаж на ИВ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-9">
+          <mxGeometry x="100" width="100" height="63" as="geometry">
+            <mxRectangle width="100" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-12" value="Разценки за допълнителни дейности " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-9">
+          <mxGeometry x="200" width="100" height="63" as="geometry">
+            <mxRectangle width="100" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-8">
+          <mxGeometry y="93" width="300" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-14" value="Часова ставка за непредвидени действия" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-13">
+          <mxGeometry width="100" height="64" as="geometry">
+            <mxRectangle width="100" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-13">
+          <mxGeometry x="100" width="100" height="64" as="geometry">
+            <mxRectangle width="100" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DprMhlQ1WLLPcYgoblqz-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DprMhlQ1WLLPcYgoblqz-13">
+          <mxGeometry x="200" width="100" height="64" as="geometry">
+            <mxRectangle width="100" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
